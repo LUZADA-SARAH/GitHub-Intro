@@ -1,1 +1,1 @@
-# GitHub-Intro
+# GitHub-IntroFixed typo in README and added project overview.
